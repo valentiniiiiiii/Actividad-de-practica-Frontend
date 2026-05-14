@@ -1,0 +1,39 @@
+.topbar {
+    background: #21106d;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu-button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+    .menu-button img {
+        width: 28px;
+    }
+
+.icon {
+    width: 26px;
+}
+
+.profile-image {
+    width: 45px;
+    border-radius: 50%;
+}

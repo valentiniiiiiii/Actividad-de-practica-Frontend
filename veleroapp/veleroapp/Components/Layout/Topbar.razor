@@ -1,0 +1,39 @@
+﻿<div class="topbar">
+
+    <div class="izquierda-topbar">
+
+        <button class="boton-menu"
+                @onclick="OnMenuClick">
+
+            <img src="images/menu-button.png" />
+
+        </button>
+
+        <h2>Veleros S.A</h2>
+
+    </div>
+
+    <div class="derecha-topbar">
+
+        <img src="images/noti.png"
+             class="icono-notificacion" />
+
+        <div class="perfil-admin">
+
+            <img src="images/perfil.png"
+                 class="imagen-perfil" />
+
+            <h5>Administrador</h5>
+
+        </div>
+
+    </div>
+
+</div>
+
+@code {
+
+    [Parameter]
+    public EventCallback OnMenuClick { get; set; }
+
+}

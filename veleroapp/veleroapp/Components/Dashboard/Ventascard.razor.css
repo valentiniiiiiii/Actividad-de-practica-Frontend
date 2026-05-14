@@ -1,0 +1,39 @@
+.ventas-card {
+    background: #f5f5f5;
+    border: 1px solid black;
+    border-radius: 18px;
+    padding: 18px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.money-image {
+    width: 75px;
+}
+
+.ventas-card h3 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.ventas-card h1 {
+    font-size: 38px;
+    margin: 5px 0 0 0;
+    color: black;
+}
+
+@media(max-width:768px) {
+
+    .ventas-card {
+        padding: 15px;
+    }
+
+    .money-image {
+        width: 65px;
+    }
+
+    .ventas-card h1 {
+        font-size: 34px;
+    }
+}

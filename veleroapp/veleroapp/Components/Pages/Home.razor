@@ -1,0 +1,37 @@
+﻿@page "/"
+
+<div class="dashboard">
+@using veleroapp.Components
+@using veleroapp.Components.Dashboard
+
+    <Ventascard />
+
+    <div class="stats-grid">
+
+        <Statscard
+            Title="Usuarios"
+            Icon="images/users-stats.png"
+            Label1="Activos"
+            Value1="245"
+            Label2="Nuevos"
+            Value2="67" />
+
+        <Statscard
+            Title="Barcos"
+            Icon="images/barco-stats.png"
+            Label1="Disponibles"
+            Value1="18"
+            Label2="Alquilados"
+            Value2="42" />
+
+    </div>
+
+    <div class="bottom-grid">
+
+        <Reservascard />
+
+        <Graficacard />
+
+    </div>
+
+</div>

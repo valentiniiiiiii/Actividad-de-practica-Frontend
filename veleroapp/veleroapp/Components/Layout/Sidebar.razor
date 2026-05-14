@@ -1,0 +1,86 @@
+﻿<div class="sidebar @(IsOpen ? "open" : "")">
+
+    <div class="logo-section">
+
+        <img src="images/logo.png" class="logo" />
+
+        <h2>Veleros S.A</h2>
+
+    </div>
+
+    <nav>
+
+        <NavLink href="/" Match="NavLinkMatch.All">
+
+            <img src="images/home.png" />
+
+            <span>Inicio</span>
+
+        </NavLink>
+        <br><br>
+
+        <NavLink href="/usuarios">
+
+            <img src="images/users.png" />
+
+            <span>Usuarios</span>
+
+        </NavLink>
+        <br><br>
+
+        <NavLink href="/ventas">
+
+            <img src="images/money-icon.png" />
+
+            <span>Ventas</span>
+
+        </NavLink>
+        <br><br>
+
+        <NavLink href="/reportes">
+
+            <img src="images/report.png" />
+
+            <span>Reportes</span>
+
+        </NavLink>
+        <br><br>
+
+        <NavLink href="/barcos">
+
+            <img src="images/barco-icon.png" />
+
+            <span>Barcos</span>
+
+        </NavLink>
+        <br><br>
+
+        <NavLink href="/configuracion">
+
+            <img src="images/config-icon.png" />
+
+            <span>Configuracion</span>
+
+        </NavLink>
+        <br><br>
+        <NavLink href="/inicio-sesion">
+
+            <img src="images/salir-icon.png" />
+
+            <span>Cerrar sesion</span>
+
+        </NavLink>
+
+
+
+
+    </nav>
+
+</div>
+
+@code {
+
+    [Parameter]
+    public bool IsOpen { get; set; }
+
+}

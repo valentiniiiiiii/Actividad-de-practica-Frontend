@@ -1,0 +1,54 @@
+.sidebar {
+    width: 240px;
+    background: #21106d;
+    color: white;
+    min-height: 100vh;
+    padding: 20px 0;
+    transition: 0.3s;
+}
+
+.logo-section {
+    text-align: center;
+}
+
+.logo {
+    width: 90px;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+    nav a {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        padding: 18px 25px;
+        color: white;
+        text-decoration: none;
+    }
+
+        nav a img {
+            width: 24px;
+        }
+
+        nav a.active {
+            background: #35208f;
+        }
+
+@media(max-width:768px) {
+
+    .sidebar {
+        position: fixed;
+        left: -260px;
+        top: 0;
+        z-index: 1000;
+        height: 100vh;
+    }
+
+        .sidebar.open {
+            left: 0;
+        }
+}

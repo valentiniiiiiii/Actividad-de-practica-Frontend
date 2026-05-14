@@ -1,0 +1,35 @@
+﻿@inherits LayoutComponentBase
+
+<div class="contenedor-principal">
+
+    @if (sidebarAbierta)
+    {
+        <div class="fondo-sidebar"
+             @onclick="AbrirCerrarSidebar">
+        </div>
+    }
+
+    <Sidebar IsOpen="@sidebarAbierta" />
+
+    <div class="contenido-principal">
+
+        <Topbar OnMenuClick="AbrirCerrarSidebar" />
+
+        <main class="contenido-pagina">
+            @Body
+        </main>
+
+    </div>
+
+</div>
+
+@code {
+
+    private bool sidebarAbierta = false;
+
+    private void AbrirCerrarSidebar()
+    {
+        sidebarAbierta = !sidebarAbierta;
+    }
+
+}

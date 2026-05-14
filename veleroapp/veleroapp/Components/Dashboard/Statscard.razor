@@ -1,0 +1,47 @@
+﻿<div class="stats-card">
+
+    <div class="title">
+
+        <img src="@Icon" />
+
+        <h2>@Title</h2>
+
+    </div>
+
+    <div class="stats">
+
+        <div>
+
+            <h3>@Label1</h3>
+
+            <span>@Value1</span>
+
+        </div>
+
+        <div>
+
+            <h3>@Label2</h3>
+
+            <span>@Value2</span>
+
+        </div>
+
+    </div>
+
+</div>
+
+@code{
+
+    [Parameter] public string Title { get; set; }
+
+    [Parameter] public string Icon { get; set; }
+
+    [Parameter] public string Label1 { get; set; }
+
+    [Parameter] public string Value1 { get; set; }
+
+    [Parameter] public string Label2 { get; set; }
+
+    [Parameter] public string Value2 { get; set; }
+
+}

@@ -1,0 +1,75 @@
+.topbar[b-f6suns3cc3] {
+    background: #35208f;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    border-radius: 18px;
+}
+
+.izquierda-topbar[b-f6suns3cc3] {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex: 1;
+}
+
+.derecha-topbar[b-f6suns3cc3] {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.boton-menu[b-f6suns3cc3] {
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+    .boton-menu img[b-f6suns3cc3] {
+        width: 28px;
+    }
+
+.icono-notificacion[b-f6suns3cc3] {
+    width: 24px;
+}
+
+.perfil-admin[b-f6suns3cc3] {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.imagen-perfil[b-f6suns3cc3] {
+    width: 42px;
+    border-radius: 50%;
+}
+
+.perfil-admin h5[b-f6suns3cc3] {
+    margin: 0;
+    font-size: 14px;
+}
+
+@media(max-width:768px) {
+    
+
+    .topbar[b-f6suns3cc3] {
+        border-radius: 0;
+        margin: 0;
+    }
+    
+    .contenedor-principal[b-f6suns3cc3] {
+        flex-direction: column;
+    }
+
+    .contenido-principal[b-f6suns3cc3] {
+        padding: 0;
+    }
+
+    .contenido-pagina[b-f6suns3cc3] {
+        margin-top: 14px;
+        padding: 10px;
+    }
+}

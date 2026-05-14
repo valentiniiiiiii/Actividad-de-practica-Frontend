@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\WinterOS\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.modules.json",
+      "PackagePath": "staticwebassets\\_framework\\blazor.modules.json"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.webview.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webview.js"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\veleroapp.styles.css",
+      "PackagePath": "staticwebassets\\veleroapp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\barco-icon.png",
+      "PackagePath": "staticwebassets\\images\\barco-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\barco-stats.png",
+      "PackagePath": "staticwebassets\\images\\barco-stats.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\config-icon.png",
+      "PackagePath": "staticwebassets\\images\\config-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\home.png",
+      "PackagePath": "staticwebassets\\images\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\money-icon.png",
+      "PackagePath": "staticwebassets\\images\\money-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\money.png",
+      "PackagePath": "staticwebassets\\images\\money.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\noti.png",
+      "PackagePath": "staticwebassets\\images\\noti.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\perfil.png",
+      "PackagePath": "staticwebassets\\images\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\profile.png",
+      "PackagePath": "staticwebassets\\images\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\report.png",
+      "PackagePath": "staticwebassets\\images\\report.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\salir-icon.png",
+      "PackagePath": "staticwebassets\\images\\salir-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\users-stats.png",
+      "PackagePath": "staticwebassets\\images\\users-stats.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\users.png",
+      "PackagePath": "staticwebassets\\images\\users.png"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.veleroapp.props",
+      "PackagePath": "build\\veleroapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.veleroapp.props",
+      "PackagePath": "buildMultiTargeting\\veleroapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.veleroapp.props",
+      "PackagePath": "buildTransitive\\veleroapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.veleroapp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.veleroapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

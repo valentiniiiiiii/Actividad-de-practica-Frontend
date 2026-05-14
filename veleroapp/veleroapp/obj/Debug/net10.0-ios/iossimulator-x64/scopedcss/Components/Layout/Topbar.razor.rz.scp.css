@@ -1,0 +1,39 @@
+.topbar[b-f6suns3cc3] {
+    background: #21106d;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.left[b-f6suns3cc3] {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.right[b-f6suns3cc3] {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu-button[b-f6suns3cc3] {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+    .menu-button img[b-f6suns3cc3] {
+        width: 28px;
+    }
+
+.icon[b-f6suns3cc3] {
+    width: 26px;
+}
+
+.profile-image[b-f6suns3cc3] {
+    width: 45px;
+    border-radius: 50%;
+}

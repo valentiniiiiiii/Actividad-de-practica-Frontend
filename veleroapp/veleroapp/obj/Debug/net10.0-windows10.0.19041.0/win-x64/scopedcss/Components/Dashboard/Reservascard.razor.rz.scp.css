@@ -1,0 +1,53 @@
+.reservas-card[b-fag3894wj2] {
+    background: #f5f5f5;
+    border: 1px solid black;
+    border-radius: 18px;
+    padding: 14px;
+    height: 330px;
+}
+
+.header[b-fag3894wj2] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .header h2[b-fag3894wj2] {
+        font-size: 16px;
+        margin: 0;
+    }
+
+    .header a[b-fag3894wj2] {
+        color: blue;
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+.reservation[b-fag3894wj2] {
+    display: grid;
+    grid-template-columns: 50px 1fr auto;
+    align-items: center;
+    margin-top: 18px;
+}
+
+    .reservation img[b-fag3894wj2] {
+        width: 38px;
+    }
+
+    .reservation h3[b-fag3894wj2] {
+        font-size: 13px;
+        margin: 0;
+    }
+
+    .reservation span[b-fag3894wj2] {
+        color: blue;
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+@media(max-width:768px) {
+
+    .reservas-card[b-fag3894wj2] {
+        height:330px;
+    }
+}
