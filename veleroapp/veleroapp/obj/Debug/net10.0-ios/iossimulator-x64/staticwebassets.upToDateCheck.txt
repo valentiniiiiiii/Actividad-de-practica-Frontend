@@ -4,6 +4,7 @@ wwwroot\images\barco-stats.png
 wwwroot\images\config-icon.png
 wwwroot\images\home.png
 wwwroot\images\logo.png
+wwwroot\images\menu-button.png
 wwwroot\images\money-icon.png
 wwwroot\images\money.png
 wwwroot\images\noti.png

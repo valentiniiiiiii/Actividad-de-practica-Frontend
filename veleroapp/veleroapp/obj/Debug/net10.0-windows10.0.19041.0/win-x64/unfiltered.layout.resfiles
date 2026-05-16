@@ -67,7 +67,7 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\veleroapp.styles.css
-wwwroot\veleroapp.oped3l87ji.bundle.scp.css
+wwwroot\veleroapp.mfg68quyz9.bundle.scp.css
 AboutAssets.txt
 wwwroot\app.css
 wwwroot\images\barco-icon.png
@@ -75,6 +75,7 @@ wwwroot\images\barco-stats.png
 wwwroot\images\config-icon.png
 wwwroot\images\home.png
 wwwroot\images\logo.png
+wwwroot\images\menu-button.png
 wwwroot\images\money.png
 wwwroot\images\money-icon.png
 wwwroot\images\noti.png

@@ -1,11 +1,10 @@
 .topbar[b-f6suns3cc3] {
-    background: #35208f;
+    background: #21106d;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
-    border-radius: 18px;
 }
 
 .izquierda-topbar[b-f6suns3cc3] {
@@ -20,7 +19,6 @@
     align-items: center;
     gap: 20px;
 }
-
 .boton-menu[b-f6suns3cc3] {
     border: none;
     background: none;
@@ -31,6 +29,9 @@
     .boton-menu img[b-f6suns3cc3] {
         width: 28px;
     }
+.boton-menu[b-f6suns3cc3] {
+    display: none;
+}
 
 .icono-notificacion[b-f6suns3cc3] {
     width: 24px;
@@ -53,23 +54,30 @@
 }
 
 @media(max-width:768px) {
-    
+
+    .boton-menu[b-f6suns3cc3] {
+        display: block;
+    }
 
     .topbar[b-f6suns3cc3] {
         border-radius: 0;
-        margin: 0;
-    }
-    
-    .contenedor-principal[b-f6suns3cc3] {
-        flex-direction: column;
+        padding: 16px;
+        position: relative;
     }
 
-    .contenido-principal[b-f6suns3cc3] {
-        padding: 0;
+    .izquierda-topbar[b-f6suns3cc3] {
+        flex: none;
     }
 
-    .contenido-pagina[b-f6suns3cc3] {
-        margin-top: 14px;
-        padding: 10px;
+        .izquierda-topbar h2[b-f6suns3cc3] {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+            font-size: 20px;
+        }
+
+    .perfil-admin[b-f6suns3cc3] {
+        display: none;
     }
 }

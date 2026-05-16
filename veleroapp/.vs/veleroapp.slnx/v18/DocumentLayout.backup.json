@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\topbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\layout\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\layout\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\sidebar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\layout\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\sidebar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\layout\\topbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,40 +35,36 @@
       "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\graficacard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\graficacard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\reservascard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\reservascard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\graficacard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\graficacard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\reservascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\reservascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\statscard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\statscard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\ventascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\ventascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\ventascard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\ventascard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\ventascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\ventascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\statscard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\statscard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\statscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\statscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\reservascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\reservascard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\reservascard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\reservascard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\graficacard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\graficacard.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\dashboard\\graficacard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\dashboard\\graficacard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\ventas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\inicio-sesion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\pages\\inicio-sesion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|solutionrelative:veleroapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC4DA67-FAE6-86C1-DCCD-5FDC06F98AD1}|veleroapp\\veleroapp.csproj|c:\\users\\winteros\\desktop\\practica frontend\\veleroapp\\veleroapp\\components\\pages\\reportes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -102,8 +102,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sidebar.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Sidebar.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\Sidebar.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Sidebar.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Layout\\Sidebar.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-13T19:44:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-13T19:43:31.452Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -112,10 +136,34 @@
               "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\Topbar.razor.css",
               "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Topbar.razor.css",
               "RelativeToolTip": "veleroapp\\Components\\Layout\\Topbar.razor.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-05-13T19:45:29.374Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "veleroapp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T21:16:52.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Pages\\Home.razor.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-13T19:01:30.028Z"
             },
             {
               "$type": "Document",
@@ -125,139 +173,49 @@
               "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\Sidebar.razor",
               "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Sidebar.razor",
               "RelativeToolTip": "veleroapp\\Components\\Layout\\Sidebar.razor",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T19:43:52.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T19:43:52.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Topbar.razor",
               "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Topbar.razor",
               "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\Topbar.razor",
               "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Topbar.razor",
               "RelativeToolTip": "veleroapp\\Components\\Layout\\Topbar.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-12T21:32:26.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:32:26.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "veleroapp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T19:09:40.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:43:31.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sidebar.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Sidebar.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Layout\\Sidebar.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Layout\\Sidebar.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Layout\\Sidebar.razor.css",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAwDYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:44:25.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Reservascard.razor",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Reservascard.razor",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor",
-              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Reservascard.razor",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-13T19:48:14.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Reservascard.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwDIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:48:37.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Pages\\Home.razor.css",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:01:30.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Graficacard.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:49:12.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T19:09:40.524Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Graficacard.razor",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Graficacard.razor",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor",
-              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Graficacard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-12T21:45:15.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Statscard.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Statscard.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Statscard.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Statscard.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Statscard.razor.css",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Title": "Ventascard.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:47:58.066Z"
+              "WhenOpened": "2026-05-13T19:47:23.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Ventascard.razor",
               "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Ventascard.razor",
               "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Ventascard.razor",
@@ -269,31 +227,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Ventascard.razor.css",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
-              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Ventascard.razor.css",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwB0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Statscard.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Statscard.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Statscard.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Statscard.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Statscard.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-05-13T19:47:23.862Z"
+              "WhenOpened": "2026-05-13T19:47:58.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Statscard.razor",
               "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Statscard.razor",
               "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Statscard.razor",
               "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Statscard.razor",
               "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Statscard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-12T21:39:40.891Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservascard.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Reservascard.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-13T19:48:37.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservascard.razor",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Reservascard.razor",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Reservascard.razor",
+              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Reservascard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-13T19:48:14.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Graficacard.razor.css",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
+              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Graficacard.razor.css",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-13T19:49:12.729Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Graficacard.razor",
+              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor",
+              "RelativeDocumentMoniker": "veleroapp\\Components\\Dashboard\\Graficacard.razor",
+              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Dashboard\\Graficacard.razor",
+              "RelativeToolTip": "veleroapp\\Components\\Dashboard\\Graficacard.razor",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T21:45:15.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Ventas.razor",
               "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Ventas.razor",
               "RelativeDocumentMoniker": "veleroapp\\Components\\Pages\\Ventas.razor",
@@ -305,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Inicio-sesion.razor",
               "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Inicio-sesion.razor",
               "RelativeDocumentMoniker": "veleroapp\\Components\\Pages\\Inicio-sesion.razor",
@@ -314,18 +320,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-14T18:08:55.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "veleroapp\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "veleroapp\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-12T21:16:52.145Z"
             },
             {
               "$type": "Document",

@@ -7,33 +7,68 @@
     color: white;
 }
 
-.left {
+.izquierda-topbar {
     display: flex;
     align-items: center;
     gap: 15px;
+    flex: 1;
 }
 
-.right {
+.derecha-topbar {
     display: flex;
     align-items: center;
     gap: 20px;
 }
 
-.menu-button {
-    border: none;
-    background: none;
-    cursor: pointer;
+.boton-menu {
+    display: none;
 }
 
-    .menu-button img {
-        width: 28px;
+.icono-notificacion {
+    width: 24px;
+}
+
+.perfil-admin {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.imagen-perfil {
+    width: 42px;
+    border-radius: 50%;
+}
+
+.perfil-admin h5 {
+    margin: 0;
+    font-size: 14px;
+}
+
+@media(max-width:768px) {
+
+    .boton-menu {
+        display: block;
     }
 
-.icon {
-    width: 26px;
-}
+    .topbar {
+        border-radius: 0;
+        padding: 16px;
+        position: relative;
+    }
 
-.profile-image {
-    width: 45px;
-    border-radius: 50%;
+    .izquierda-topbar {
+        flex: none;
+    }
+
+        .izquierda-topbar h2 {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+            font-size: 20px;
+        }
+
+    .perfil-admin {
+        display: none;
+    }
 }

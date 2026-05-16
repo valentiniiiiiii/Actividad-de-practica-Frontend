@@ -228,17 +228,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dLjmWc4YRAp7XkxEmYm7/xV1ebW\u002BYQ0LrlrrKVB8kXY="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"589893"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022dLjmWc4YRAp7XkxEmYm7/xV1ebW\u002BYQ0LrlrrKVB8kXY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 12 May 2026 20:53:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="veleroapp.oped3l87ji.styles.css">
+    <StaticWebAssetEndpoint Include="veleroapp.mfg68quyz9.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\veleroapp.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oped3l87ji"},{"Name":"integrity","Value":"sha256-vCLtmkEB2dpTDh0hr53XktazboXmcG\u002B3vXxflW2zIi0="},{"Name":"label","Value":"veleroapp.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11289"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vCLtmkEB2dpTDh0hr53XktazboXmcG\u002B3vXxflW2zIi0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 May 2026 22:49:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mfg68quyz9"},{"Name":"integrity","Value":"sha256-Tlcq4YsYu6WLpPt6D3YcW4rRj8eWSOp0xtN2wXyfnUc="},{"Name":"label","Value":"veleroapp.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12102"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Tlcq4YsYu6WLpPt6D3YcW4rRj8eWSOp0xtN2wXyfnUc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 May 2026 18:44:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="veleroapp.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\veleroapp.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vCLtmkEB2dpTDh0hr53XktazboXmcG\u002B3vXxflW2zIi0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11289"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vCLtmkEB2dpTDh0hr53XktazboXmcG\u002B3vXxflW2zIi0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 May 2026 22:49:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tlcq4YsYu6WLpPt6D3YcW4rRj8eWSOp0xtN2wXyfnUc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12102"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Tlcq4YsYu6WLpPt6D3YcW4rRj8eWSOp0xtN2wXyfnUc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 16 May 2026 18:44:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

@@ -15,6 +15,10 @@
     width: 90px;
 }
 
+.logo-section h2[b-leg0c1v2bb] {
+    margin-top: 10px;
+}
+
 nav[b-leg0c1v2bb] {
     display: flex;
     flex-direction: column;
@@ -46,7 +50,6 @@ nav[b-leg0c1v2bb] {
         top: 0;
         z-index: 999;
         height: 100vh;
-        transition: 0.3s;
     }
 
         .sidebar.open[b-leg0c1v2bb] {

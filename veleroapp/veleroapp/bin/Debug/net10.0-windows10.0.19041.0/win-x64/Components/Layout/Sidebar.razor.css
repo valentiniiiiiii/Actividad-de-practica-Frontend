@@ -15,6 +15,10 @@
     width: 90px;
 }
 
+.logo-section h2 {
+    margin-top: 10px;
+}
+
 nav {
     display: flex;
     flex-direction: column;
@@ -44,7 +48,7 @@ nav {
         position: fixed;
         left: -260px;
         top: 0;
-        z-index: 1000;
+        z-index: 999;
         height: 100vh;
     }
 

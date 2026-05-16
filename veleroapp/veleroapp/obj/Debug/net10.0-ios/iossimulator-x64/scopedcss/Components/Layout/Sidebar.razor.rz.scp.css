@@ -15,6 +15,10 @@
     width: 90px;
 }
 
+.logo-section h2[b-leg0c1v2bb] {
+    margin-top: 10px;
+}
+
 nav[b-leg0c1v2bb] {
     display: flex;
     flex-direction: column;
@@ -44,7 +48,7 @@ nav[b-leg0c1v2bb] {
         position: fixed;
         left: -260px;
         top: 0;
-        z-index: 1000;
+        z-index: 999;
         height: 100vh;
     }
 

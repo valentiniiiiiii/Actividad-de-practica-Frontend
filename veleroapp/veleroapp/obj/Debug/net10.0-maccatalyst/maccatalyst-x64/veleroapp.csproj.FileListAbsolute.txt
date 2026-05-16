@@ -274,10 +274,6 @@ C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.
 C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
 C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
-C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
-C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\EmbeddedAttribute.cs
 C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\ValidatableTypeAttribute.cs
 C:\Users\WinterOS\Desktop\Practica Frontend\veleroapp\veleroapp\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\veleroapp.csproj.AssemblyReference.cache

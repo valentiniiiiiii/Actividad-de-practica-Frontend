@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\menu-button.png",
+      "PackagePath": "staticwebassets\\images\\menu-button.png"
+    },
+    {
       "Id": "C:\\Users\\WinterOS\\Desktop\\Practica Frontend\\veleroapp\\veleroapp\\wwwroot\\images\\money-icon.png",
       "PackagePath": "staticwebassets\\images\\money-icon.png"
     },

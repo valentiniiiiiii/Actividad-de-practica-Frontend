@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("veleroapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2afb78b5d15d9b4ae3bf3e6c8c2b294e2ed1f324")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8ee11df05f8786cc9856475a33b48862543b213e")]
 [assembly: System.Reflection.AssemblyProductAttribute("veleroapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("veleroapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

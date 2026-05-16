@@ -1,11 +1,10 @@
 .topbar {
-    background: #35208f;
+    background: #21106d;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
-    border-radius: 18px;
 }
 
 .izquierda-topbar {
@@ -20,7 +19,6 @@
     align-items: center;
     gap: 20px;
 }
-
 .boton-menu {
     border: none;
     background: none;
@@ -31,6 +29,9 @@
     .boton-menu img {
         width: 28px;
     }
+.boton-menu {
+    display: none;
+}
 
 .icono-notificacion {
     width: 24px;
@@ -53,23 +54,30 @@
 }
 
 @media(max-width:768px) {
-    
+
+    .boton-menu {
+        display: block;
+    }
 
     .topbar {
         border-radius: 0;
-        margin: 0;
-    }
-    
-    .contenedor-principal {
-        flex-direction: column;
+        padding: 16px;
+        position: relative;
     }
 
-    .contenido-principal {
-        padding: 0;
+    .izquierda-topbar {
+        flex: none;
     }
 
-    .contenido-pagina {
-        margin-top: 14px;
-        padding: 10px;
+        .izquierda-topbar h2 {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+            font-size: 20px;
+        }
+
+    .perfil-admin {
+        display: none;
     }
 }

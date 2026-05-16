@@ -392,12 +392,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>oped3l87ji</Fingerprint>
-      <Integrity>vCLtmkEB2dpTDh0hr53XktazboXmcG+3vXxflW2zIi0=</Integrity>
+      <Fingerprint>mfg68quyz9</Fingerprint>
+      <Integrity>Tlcq4YsYu6WLpPt6D3YcW4rRj8eWSOp0xtN2wXyfnUc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>11289</FileLength>
-      <LastWriteTime>Thu, 14 May 2026 22:49:04 GMT</LastWriteTime>
+      <FileLength>12102</FileLength>
+      <LastWriteTime>Sat, 16 May 2026 18:44:28 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\veleroapp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\_framework\blazor.modules.json'))">
